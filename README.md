@@ -1,6 +1,6 @@
-# douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF - Private, Uncensored AI for Real Creators and Devs
+# douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF â€” Private, Uncensored AI for Real Creators & Devs
 
-> Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
+> Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?  
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
 
 [![Launch Venice](https://img.shields.io/badge/Launch-Venice.ai-0A84FF?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
@@ -10,7 +10,7 @@
 ---
 
 ## Why This Exists
-Most AI platforms trade your data for convenience. They track, filter, and restrict.
+Most AI platforms trade your data for convenience. They track, filter, and restrict.  
 **Venice flips the script:** your prompts stay local, your ideas aren't policed, and you get fast, unfiltered responses without the corporate overhead.
 
 This repo is a curated starting point for devs, writers, researchers, and privacy-first users who want AI that actually *works with* them, not against them.
@@ -29,28 +29,36 @@ This repo is a curated starting point for devs, writers, researchers, and privac
 
 ## Quick Start for douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF
 1. Open [Venice Chat](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network) in your browser
-2. Select the **douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF** model from the selector
+2. Select the **Gemma-4-31B-JANG_4M-CRACK-GGUF** model from the model selector
 3. Drop your prompt: code, story, research, system design, art direction...
 4. Get fast, contextual responses without the usual lectures
 5. Keep everything private. Export or delete anytime.
 
 ---
 
+## Model Info: douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF
+- **Type**: Large Language Model / Multimodal AI
+- **Use Cases**: Code generation, creative writing, research assistance, image analysis
+- **Privacy**: Zero telemetry, client-side execution options available
+- **Access**: Free tier available via Venice.ai
+
+---
+
 ## Direct Access
-> [Start Chatting](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
-> [Explore Pro Features](https://venice.ai/pricing?ref=i4kyGp)
-> [Read the Docs](https://docs.venice.ai)
+> [Start Chatting with Gemma-4-31B-JANG_4M-CRACK-GGUF](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)  
+> [Explore Pro Features](https://venice.ai/pricing?ref=i4kyGp)  
+> [Read the Docs](https://docs.venice.ai)  
 
 ---
 
 ## FAQ
-**Is it really free?**
+**Is it really free?**  
 Yes. Core access requires no signup. Pro tiers unlock higher quotas and priority models.
 
-**Where does my data go?**
+**Where does my data go?**  
 Nowhere you don't want it to. Venice runs stateless by default. Nothing leaves your session unless you explicitly save or export.
 
-**Can I use outputs commercially?**
+**Can I use outputs commercially?**  
 Absolutely. Generated text, code, and images are yours.
 
 ---
@@ -61,7 +69,7 @@ If you value AI that respects your time, privacy, and creative freedom:
 - Share with your team or Discord
 - Drop feedback in [Venice Community](https://discord.gg/venice)
 
-> Built for creators, by creators. No tracking. No limits. Just AI that works.
+> Built for creators, by creators. No tracking. No limits. Just AI that works.  
 > [Open Venice](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
 
 [![Visits](https://komarev.com/ghpvc/?username=damacol&label=Visits&color=blue&style=flat-square)](https://github.com/Damacol/douyamv-gemma-4-31b-jang-4m-crack-gguf)
